@@ -1,0 +1,4 @@
+FROM openjdk:8
+
+### TODO add extra needed commands to finish this docker file.
+### TODO Otherwise use Spotify/Fabric8 maven docker plugins
